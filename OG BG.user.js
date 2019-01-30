@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name			OG BG
+// @name			Tumbl OG BG
 // @namespace		http://pisspasta.tumblr.com/
 // @version			1.0
 // @author			dripdad
