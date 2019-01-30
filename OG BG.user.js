@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name			Tumbl OG BG
-// @namespace		http://pisspasta.tumblr.com/
+// @namespace		http://github.com/dripdad/Tumbl
 // @version			1.0
 // @author			dripdad
 // @description		Original bg color
