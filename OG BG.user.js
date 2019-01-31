@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name			Tumbl OG BG
-// @namespace		http://github.com/dripdad/Tumbl
+// @namespace		http://pisspasta.tumblr.com/
 // @version			1.0
 // @author			dripdad
 // @description		Original bg color
@@ -27,7 +27,9 @@ function addGlobalStyle(css) {
 }
 
 /* GENERAL BACKGROUND */
-addGlobalStyle('.discover_actions_discover.flag--accessibility-design-update .elevator, .search_actions_search.flag--accessibility-design-update .elevator, .flag--accessibility-design-update .l-container.l-container--flex .l-content, .flag--accessibility-design-update .post-forms-glass, body.flag--always-opaque-peepr .ui_peepr_glass, body.flag--always-opaque-peepr.flag--accessibility-design-update .ui_peepr_glass, .flag--accessibility-design-update .l-header-container--refresh, .flag--accessibility-design-update .l-container.l-container--two-column-dashboard .right_column, .flag--accessibility-design-update .l-container.l-container--two-column .right_column, .flag--accessibility-design-update .post_avatar, .flag--accessibility-design-update .l-container.l-container--two-column-dashboard .left_column, .l-container.l-container--two-column-dashboard .left_column, .flag--accessibility-design-update .ui_dialog_lock, .identity, .flag--accessibility-design-update .identity, .identity.flag--accessibility-design-update, .flag--accessibility-design-update .l-container.l-container--two-column-dashboard .l-content, .flag--accessibility-design-update .l-container.l-container--two-column .l-content {background-color: #36465d !important;}');
+addGlobalStyle('.identity.flag--accessibility-design-update .user_list li .follow_list_item_blog:before, .flag--accessibility-design-update .radar .radar_footer .radar_avatar::before, .identity.flag--accessibility-design-update .right_column:after, .toastr .toast:not(:hover), .accessibility-design-update .toastr .toast:not(:hover), .discover_actions_discover.flag--accessibility-design-update .elevator, .search_actions_search.flag--accessibility-design-update .elevator, .flag--accessibility-design-update .l-container.l-container--flex .l-content, .flag--accessibility-design-update .post-forms-glass, body.flag--always-opaque-peepr .ui_peepr_glass, body.flag--always-opaque-peepr.flag--accessibility-design-update .ui_peepr_glass, .flag--accessibility-design-update .l-header-container--refresh, .flag--accessibility-design-update .l-container.l-container--two-column-dashboard .right_column, .flag--accessibility-design-update .l-container.l-container--two-column .right_column, .flag--accessibility-design-update .post_avatar, .flag--accessibility-design-update .l-container.l-container--two-column-dashboard .left_column, .l-container.l-container--two-column-dashboard .left_column, .flag--accessibility-design-update .ui_dialog_lock, .identity, .flag--accessibility-design-update .identity, .identity.flag--accessibility-design-update, .flag--accessibility-design-update .l-container.l-container--two-column-dashboard .l-content, .flag--accessibility-design-update .l-container.l-container--two-column .l-content {background-color: #36465d !important;}');
+addGlobalStyle('.identity.flag--accessibility-design-update .user_list li .follow_list_item_blog:before, .flag--accessibility-design-update .radar .radar_footer .radar_avatar::before, .identity.flag--accessibility-design-update .right_column:after {background: none !important;}');
+addGlobalStyle('.identity.flag--accessibility-design-update .user_list li .follow_list_item_blog:before {border-right: 0 none transparent !important;}');
 
 /* POST PERMALINK CORNER PAGE TURN */
 addGlobalStyle('.flag--accessibility-design-update .post_full .post_permalink {border-top-color: #36465d !important;}');
