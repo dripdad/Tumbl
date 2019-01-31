@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name			Tumbl OG BG
 // @namespace		http://pisspasta.tumblr.com/
-// @version			1.0
+// @version			1.1
 // @author			dripdad
 // @description		Original bg color
 // @icon			https://pbs.twimg.com/profile_images/467963365172576256/_5NLD8Uq_normal.jpeg
