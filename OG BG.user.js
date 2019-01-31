@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name			Tumbl OG BG
 // @namespace		http://pisspasta.tumblr.com/
-// @version			1.1
+// @version			1.2
 // @author			dripdad
 // @description		Original bg color
 // @icon			https://pbs.twimg.com/profile_images/467963365172576256/_5NLD8Uq_normal.jpeg
@@ -12,6 +12,8 @@
 // @include			https://www.tumblr.com/likes*
 // @include			https://www.tumblr.com/reblog*
 // @include			https://www.tumblr.com/settings*
+// @include			https://www.tumblr.com/explore*
+// @include			https://www.tumblr.com/privacy*
 // @include			https://www.tumblr.com/search*
 // @grant			none
 // ==/UserScript==
